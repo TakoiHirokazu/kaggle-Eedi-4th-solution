@@ -1,7 +1,5 @@
 *.DS_Store
-data/
 input/
-output/
 *.csv
 *.xlsx
 *.gz
