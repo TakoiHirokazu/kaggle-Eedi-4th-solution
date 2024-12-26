@@ -1,0 +1,23 @@
+*.DS_Store
+data/
+input/
+output/
+*.csv
+*.xlsx
+*.gz
+*.pkl
+*~
+*.swp
+*.feather
+*.pyc
+*.pth
+*.npy
+*.txt
+*.tsv
+*.tfevents
+*.log
+
+#jupyter notebook
+.ipynb_checkpoints
+office.md
+command.md
